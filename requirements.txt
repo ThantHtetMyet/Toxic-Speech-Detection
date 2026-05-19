@@ -1,0 +1,7 @@
+numpy==1.26.4
+scipy==1.12.0
+sounddevice==0.4.6
+onnxruntime==1.17.3
+requests==2.31.0
+tiktoken==0.7.0
+openai-whisper==20250625

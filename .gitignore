@@ -1,0 +1,29 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.env
+recordings/
+.DS_Store
+*.db
+
+# Local runtime assets that should not be pushed to GitHub
+models/
+ffmpeg.exe
+ffplay.exe
+ffprobe.exe
+SQL/SQLiteDatabaseBrowserPortable/
+
+# Local environments and editor folders
+.venv/
+.idea/
+.vscode/
+
+# Logs and caches
+*.log
+*.tmp
